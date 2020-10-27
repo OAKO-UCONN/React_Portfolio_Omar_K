@@ -15,9 +15,9 @@ function Buttons() {
         Start Game!
       </Link> */}
 
-      {/*Scores Button*/}
-      <Link to="/highscores" className="btn btn-outline-success">
-        Scores
+      {/*Contact Button*/}
+      <Link to="/contact" className="btn btn-outline-success">
+        Contact
       </Link>
 
       {/*About Button*/}

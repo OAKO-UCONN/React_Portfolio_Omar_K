@@ -24,12 +24,13 @@ class Home extends Component {
         <h2 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>
         {/* <h2 id="ready-banner" className="p-3 mb-2 bg-primary text-white ready-banner"> */}
         {/* <h2 id="ready-banner" className="text-white ready-banner"> */}
-          Are you Ready to Play Jeopardy?
+          Are you seeking a Full Stack Developer?
         </h2>
         <img
-          src="https://i.ibb.co/mvvMCpD/America-jeopardy-2019-web-app.png"
+          src="https://i.ibb.co/cxp7YKp/digi-Tris.gif"
           height="370"
-          alt="jeopardy tag"          
+          alt="Cyberspace"
+          border="0"          
         />
       </div>
     );
