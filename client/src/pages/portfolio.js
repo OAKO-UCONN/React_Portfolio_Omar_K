@@ -13,9 +13,12 @@ function portfolio() {
         <div className="col-xl-2 mycols">
           <h3>Uconn Coding Boot Camp Student.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/uconn-coding-bootcamp-logo.png"/ >
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/uconn-coding-bootcamp.html">More Info</a>
-          </button>
+      
+            <a className="href-text-light" style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}} href="https://soeprofed.uconn.edu/uconn-coding-boot-camp/">Uconn Coding Bootcamp Program</a>
+            <a className="href-text-light" style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}} href="https://www.trilogyed.com/employers/">Trilogy Education Workforce Training Services</a>
+
+         
+          
         </div>
         <div className="col-xl-2 mycols">
           <h3>Edgehill Senior Living Food Server/Dietary-Aide.</h3>

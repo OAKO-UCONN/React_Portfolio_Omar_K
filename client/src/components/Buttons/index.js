@@ -6,13 +6,13 @@ function Buttons() {
   return (
     <div class="container buttons-container">
       {/*Home Button*/}
-      <Link className="btn btn-outline-primary" to="/">
+      <Link className="btn btn-outline-info" to="/">
         Home
       </Link>
 
       {/*Portfolio Button*/}
-      <Link to="/portfolio" className="btn btn-outline-info">
-        View my Portfolio!
+      <Link to="/portfolio" className="btn btn-outline-success">
+        Portfolio
       </Link>
 
       {/*OLD Play Button*/}
@@ -23,7 +23,7 @@ function Buttons() {
       */}
 
       {/*Contact Button*/}
-      <Link to="/contact" className="btn btn-outline-success">
+      <Link to="/contact" className="btn btn-outline-warning">
         Contact
       </Link>
 

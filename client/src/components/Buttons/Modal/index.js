@@ -5,6 +5,7 @@ function Modal() {
   const [playerName, setPlayerName] = useState("");
   return (
     <div>
+      {/*}
       <button
         type="button"
         class="btn btn-outline-warning"
@@ -13,6 +14,7 @@ function Modal() {
       >
         Create Player!
       </button>
+      */}
 
       <div
         class="modal fade bd-example-modal-sm"
