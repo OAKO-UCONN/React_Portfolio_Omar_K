@@ -26,12 +26,18 @@ class Home extends Component {
         {/* <h2 id="ready-banner" className="text-white ready-banner"> */}
           Are you seeking a Full Stack Developer?
         </h2>
+        <h3 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>You found one thats unique!</h3>
+        <h4 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>Full Stack Developer with passion for free secure and opensource technologies.</h4>
+        <p></p>
+        {/*
         <img
           src="https://i.ibb.co/zSqyVSj/horizontal-code-light-blue-6-100ths-sec-push.webp"
           height="370"
           alt="Cyberspace"
-          border="0"   
+          border="0"
+          opacity="0.6"   
         />
+        */}
       </div>
     );
   }
