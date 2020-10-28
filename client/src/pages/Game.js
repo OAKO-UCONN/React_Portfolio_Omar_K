@@ -124,7 +124,7 @@ function Game(props) {
                     }
                     setCount(questionCount + 1);
                     if (questionCount === questions.length) {
-                      history.push("/highscores");
+                      history.push("/contact");
                     }
                   }}
                 >

@@ -24,13 +24,20 @@ class Home extends Component {
         <h2 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>
         {/* <h2 id="ready-banner" className="p-3 mb-2 bg-primary text-white ready-banner"> */}
         {/* <h2 id="ready-banner" className="text-white ready-banner"> */}
-          Are you Ready to Play Jeopardy?
+          Are you seeking a Full Stack Developer?
         </h2>
+        <h3 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>You found one thats unique!</h3>
+        <h4 style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}}>Full Stack Developer with passion for free secure and opensource technologies.</h4>
+        <p></p>
+        {/*
         <img
-          src="https://i.ibb.co/mvvMCpD/America-jeopardy-2019-web-app.png"
+          src="https://i.ibb.co/zSqyVSj/horizontal-code-light-blue-6-100ths-sec-push.webp"
           height="370"
-          alt="jeopardy tag"          
+          alt="Cyberspace"
+          border="0"
+          opacity="0.6"   
         />
+        */}
       </div>
     );
   }

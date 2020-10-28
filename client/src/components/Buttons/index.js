@@ -10,14 +10,21 @@ function Buttons() {
         Home
       </Link>
 
-      {/*Play Button*/}
-      {/* <Link to="/game" className="btn btn-outline-info">
-        Start Game!
-      </Link> */}
+      {/*Portfolio Button*/}
+      <Link to="/portfolio" className="btn btn-outline-info">
+        View my Portfolio!
+      </Link>
 
-      {/*Scores Button*/}
-      <Link to="/highscores" className="btn btn-outline-success">
-        Scores
+      {/*OLD Play Button*/}
+      {/*
+      <Link to="/game" className="btn btn-outline-info">
+        View my Projects!
+      </Link>
+      */}
+
+      {/*Contact Button*/}
+      <Link to="/contact" className="btn btn-outline-success">
+        Contact
       </Link>
 
       {/*About Button*/}

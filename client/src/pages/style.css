@@ -4,8 +4,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: url("https://media.giphy.com/media/1vZaAcldbX8Xh6lMlV/giphy.gif");
+  background-image: url("https://i.ibb.co/cxp7YKp/digi-Tris.gif");
   background-size: cover;
+  border: 0;
 }
 
 .game-wrapper {
@@ -83,7 +84,7 @@ div.card-group {
 };
 
 
-.highscoresh1{
+.contacth1{
   color: rgba(0, 4, 255, 0.5);
 };
 
