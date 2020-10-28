@@ -38,7 +38,8 @@ function portfolio() {
         <div className="col-xl-2 mycols">
           <h3>Computer Science Student at Norwalk Community College.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/ncc-logo-blue-with-text.png" alt="Campus Logo NCC Norwalk Community College" />
-          <a class="btn btn-info" href="https://norwalk.edu/" role="button">Norwalk Community College</a>
+          <a class="btn btn-primary" href="https://norwalk.edu/" role="button">Norwalk Community College</a>
+          <a class="btn btn-info" href="https://www.ct.edu/" role="button">Conneticut State Community Colleges</a>
         </div>
 
 
