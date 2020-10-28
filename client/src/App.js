@@ -9,6 +9,8 @@ import Buttons from "./components/Buttons";
 import portfolio from "./pages/portfolio";
 
 import "./pages/style.css";
+import "./pages/gridsys.css";
+import "./pages/production.css";
 
 function App() {
   return (
