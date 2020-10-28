@@ -27,10 +27,10 @@ class Home extends Component {
           Are you seeking a Full Stack Developer?
         </h2>
         <img
-          src="https://i.ibb.co/cxp7YKp/digi-Tris.gif"
+          src="https://i.ibb.co/zSqyVSj/horizontal-code-light-blue-6-100ths-sec-push.webp"
           height="370"
           alt="Cyberspace"
-          border="0"          
+          border="0"   
         />
       </div>
     );
