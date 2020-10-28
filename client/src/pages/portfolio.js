@@ -10,51 +10,65 @@ function portfolio() {
       <div>
       <div className="container-fluid mycontainer">
       <div className="row myrows">
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Uconn Coding Boot Camp Student.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/uconn-coding-bootcamp-logo.png"/ >
-      
-            <a className="href-text-light" style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}} href="https://soeprofed.uconn.edu/uconn-coding-boot-camp/">Uconn Coding Bootcamp Program</a>
-            <a className="href-text-light" style={{color: "white", background:	"rgba(2, 117, 216, 0.75", padding: "10px",}} href="https://www.trilogyed.com/employers/">Trilogy Education Workforce Training Services</a>
-
-         
-          
+            <a class="btn btn-primary" href="https://soeprofed.uconn.edu/uconn-coding-boot-camp/" role="button">Uconn Coding Bootcamp Program</a>
+            <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a> 
         </div>
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Edgehill Senior Living Food Server/Dietary-Aide.</h3>
-          <img className="img-responsive styledImage" width="200px" src="./assets/edgehill_logo-fall.png" alt="Edgehill a Benchmark Senior Living Community" />
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/edgehill.html">More Info</a>
-          </button>
+          <img className="img-responsive styledImage" width="200px" src="https://freeimage.host/3jZj5u" alt="Edgehill a Benchmark Senior Living Community" />
+          <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a>
         </div>
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Computer Science Student at Norwalk Community College.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/ncc-logo-blue-with-text.png" alt="Campus Logo NCC Norwalk Community College" />
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/ncc.html">More Info</a>
-          </button>
+          <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a>
         </div>
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Worked as a Waiter/Server in Various Staffing Companies in Greenwich and Westchester County NY.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/food-service-kitchen.jpg" alt="A Manager and Waiter in the Kitchen holding serving trays to serve Breakfast to tables." />
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/staffing.html">More Info</a>
-          </button>
+          <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a>
         </div>
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Taught Scratch and JavaScript Basics at BrainBoost.</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/brainboost-672x372.jpg" alt="Think Discover Build The BrainBoost LightBulb Logo." />
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/brain-boost.html">More Info</a>
-          </button>
+          <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a>
         </div>
+
+
+
+
         <div className="col-xl-2 mycols">
           <h3>Yo hablo Espanol. (I speak Spanish.)</h3>
           <img className="img-responsive styledImage" width="200px" src="./assets/spanish-language.jpg" alt="Yo hablo Espanol. (I speak Spanish.)" />
-          <button type="button" className="btn btn-success">
-            <a className="href-text-light" href="./portfolio/espanol.html">More Info</a>
-          </button>
+          <a class="btn btn-info" href="https://www.trilogyed.com/employers/" role="button">Trilogy Education Workforce Training Services</a>
         </div>
+
+
+
+
     </div>
       </div>
       {/*End Content*/}

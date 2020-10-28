@@ -11,7 +11,10 @@ function About() {
     <hr className="my-4"/>
     <div className='about-wrapper'>
     <h1 className="h1-intro">Resume</h1>
-    <h3 className="intro-p-tag text-box">Here is my resume below on the web:</h3>
+    <h3 className="intro-p-tag text-box">Here is my resume below on the web and as a pdf:</h3>
+    <h3>Resume is being updated and will be updated as soon as possible. For now check my LinkedIn and Github Profiles:</h3>
+    <a class="btn btn-info" href="https://www.linkedin.com/in/omar-kazi-2a7945a0/" role="button">LinkedIn</a>
+    <a class="btn btn-success" href="https://github.com/OAKO-UCONN" role="button">GitHub</a>
     </div>
     <div className='conclusion-wrapper'>
     </div>
