@@ -6,6 +6,7 @@ import contact from "./pages/contact";
 import Modal from "./components/Buttons/Modal";
 import About from "./pages/About";
 import Buttons from "./components/Buttons";
+import portfolio from "./pages/portfolio";
 
 import "./pages/style.css";
 
@@ -19,6 +20,7 @@ function App() {
         <Route exact path="/about" component={About} />
         <Route exact path="/game" component={Game} />
         <Route exact path="/contact" component={contact} />
+        <Route exact path="/portfolio" component={portfolio} />
       </div>
     </Router>
   );
